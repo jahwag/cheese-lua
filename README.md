@@ -1,4 +1,5 @@
 cheese-lua
 ==========
-
-lua metal etc
+dynamic metal
+ingame dynamic metal map exporter
+lua metal spots
